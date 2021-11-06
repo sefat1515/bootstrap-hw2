@@ -1,0 +1,8 @@
+.box{
+	height: 100px;
+	background-color: skyblue;
+	margin-bottom: 12px;
+}
+.password2 .form-control{
+	display: inline;
+}
